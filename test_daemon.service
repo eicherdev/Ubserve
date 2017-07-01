@@ -6,7 +6,7 @@ After=network.target
 Type=simple
 User=commander
 WorkingDirectory=/home/commander
-ExecStart=/home/commander/my_daemon --option=123
+ExecStart=/home/commander/rundaemon
 Restart=on-abort
 
 [Install]

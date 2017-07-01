@@ -1,0 +1,10 @@
+#!/bin/bash
+
+cpufreq-set -c 0 -f 1.4GHz
+cpufreq-set -c 1 -f 1.4GHz
+cpufreq-set -c 2 -f 1.4GHz
+cpufreq-set -c 3 -f 1.4GHz
+cpufreq-set -c 4 -f 1.4GHz
+cpufreq-set -c 5 -f 1.4GHz
+cpufreq-set -c 6 -f 1.4GHz
+cpufreq-set -c 7 -f 1.4GHz

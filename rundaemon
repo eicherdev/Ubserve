@@ -1,0 +1,3 @@
+#!/bin/bash
+
+python /home/commander/cherrytest.py

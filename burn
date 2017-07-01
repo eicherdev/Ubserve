@@ -1,0 +1,18 @@
+#!/bin/bash
+
+burnP6 &
+echo Burning Core1
+burnP6 &
+echo Burning Core2
+burnP6 &
+echo Burning Core3
+burnP6 &
+echo Burning Core4
+burnP6 &
+echo Burning Core5
+burnP6 &
+echo Burning Core6
+burnP6 &
+echo Burning Core7
+burnP6 &
+echo Burning Core8

@@ -1,0 +1,3 @@
+#!/bin/bash
+echo Killing all burnP6
+killall burnP6

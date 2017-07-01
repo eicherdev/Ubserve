@@ -1,0 +1,8 @@
+tail -fn0 nginx.log | \
+while read line ; do
+	echo "$line" | grep "pattern"
+	if [ $? = 0 ]
+	then
+		hello >> ohyea.txt
+	fi
+done

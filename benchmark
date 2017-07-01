@@ -1,0 +1,4 @@
+#!/bin/bash
+
+sysbench --test=cpu --max-requests=100000 --num-threads=8 run
+

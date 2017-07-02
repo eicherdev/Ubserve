@@ -4,8 +4,8 @@ import random, time
 
 db = MySQLdb.connect(host="localhost",
                         user="root",
-                        passwd="bloodston3",
-                        db= "cherrydb")
+                        passwd="",
+                        db= "")
 
 cur = db.cursor()
 
